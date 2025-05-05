@@ -32,7 +32,7 @@
 ---
 
 #### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdullah-al-asad-200a76153)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:your.abdullahalasad2450@gmail.com)
 
 ---
